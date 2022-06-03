@@ -1,24 +1,5 @@
-# test-ui
+1、后端只有回调才需要跨域
 
-## Project setup
-```
-npm install
-```
+2、已可以session保持状态
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+http://192.168.1.109:9000/ui/index.html#/login
